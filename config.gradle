@@ -79,5 +79,6 @@ ext {
             "colorpicker"       : "com.jaredrummler:colorpicker:1.0.2",
             "arouter"           : 'com.alibaba:arouter-api:1.4.1',
             "arouter_compiler"  : "com.alibaba:arouter-compiler:1.2.2",
+            "material-dialogs"  : 'com.afollestad.material-dialogs:core:3.1.0',
     ]
 }
