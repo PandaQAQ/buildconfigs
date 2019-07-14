@@ -67,8 +67,8 @@ ext {
             //BaseRecyclerViewAdapterHelper
             "brvah"             : "com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46",
             //SmartRefreshLayout
-            "refresh-layout"    : "com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-1",
-            "refresh-header"    : "com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-1",
+            "refresh-layout"    : "com.scwang.smartrefresh:SmartRefreshLayout:1.1.0",
+            "refresh-header"    : "com.scwang.smartrefresh:SmartRefreshHeader:1.1.0",
             // 滚轮选择控件
             "pickerview"        : "com.contrarywind:Android-PickerView:4.1.8",
             // 日历控件
