@@ -33,7 +33,7 @@ ext {
 
             "appcompat-v7"      : "com.android.support:appcompat-v7:${version["androidSupportVersion"]}",
             "constraint-layout" : "com.android.support.constraint:constraint-layout:1.1.3",
-            "design"            : "com.google.android.material:material:1.0.0",
+            "design"            : "com.android.support:design:${version["androidSupportVersion"]}",
 
             // DiskLruCache
             "disklrucache"      : "com.jakewharton:disklrucache:2.0.2",
@@ -65,10 +65,10 @@ ext {
             "sonic"             : "com.tencent.sonic:sdk:3.0.0",
 
             //BaseRecyclerViewAdapterHelper
-            "brvah"             : "com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.46",
+            "brvah"             : "com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40",
             //SmartRefreshLayout
-            "refresh-layout"    : "com.scwang.smartrefresh:SmartRefreshLayout:1.1.0",
-            "refresh-header"    : "com.scwang.smartrefresh:SmartRefreshHeader:1.1.0",
+            "refresh-layout"    : "com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-alpha-16",
+            "refresh-header"    : "com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-alpha-16",
             // 滚轮选择控件
             "pickerview"        : "com.contrarywind:Android-PickerView:4.1.8",
             // 日历控件
